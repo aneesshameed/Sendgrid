@@ -1,6 +1,6 @@
-# Sendgrid Node.js Examples
+# Sendgrid Node.js and PHP Examples
 
-An email will send to all routes that hits /sendMail
+An email will send on all routes that hits /sendMail
 
 * example1 <br/>
     Sending simple text email
